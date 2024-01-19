@@ -1,8 +1,2 @@
-# User guide for the Backend Project
+This is a backend project for Fruit API
 
-   To make this backend work you need the following dependencies :
-
-  1. Dev Dependencies
-  -
-
-  2. Normal Dependencies
